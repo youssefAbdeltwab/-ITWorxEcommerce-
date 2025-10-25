@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ITWorx\\SelfLearn\\Ecomerce\\New folder\\ITWorxEcommerce Solution\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\ITWorx\\SelfLearn\\Ecomerce\\-ITWorxEcommerce-\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\ITWorx\\SelfLearn\\Ecomerce\\New folder\\ITWorxEcommerce Solution\\Domain\\Domain.csproj",
+      "projectPath": "D:\\ITWorx\\SelfLearn\\Ecomerce\\-ITWorxEcommerce-\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\youssef.abdeltwab\\.nuget\\packages\\",
-      "outputPath": "D:\\ITWorx\\SelfLearn\\Ecomerce\\New folder\\ITWorxEcommerce Solution\\Domain\\obj\\",
+      "outputPath": "D:\\ITWorx\\SelfLearn\\Ecomerce\\-ITWorxEcommerce-\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
