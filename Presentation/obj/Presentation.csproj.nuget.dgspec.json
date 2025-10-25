@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ITWorx\\SelfLearn\\Ecomerce\\New folder\\ITWorxEcommerce Solution\\Presentation\\Presentation.csproj": {}
+    "D:\\ITWorx\\SelfLearn\\Ecomerce\\-ITWorxEcommerce-\\Presentation\\Presentation.csproj": {}
   },
   "projects": {
-    "D:\\ITWorx\\SelfLearn\\Ecomerce\\New folder\\ITWorxEcommerce Solution\\Domain\\Domain.csproj": {
+    "D:\\ITWorx\\SelfLearn\\Ecomerce\\-ITWorxEcommerce-\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITWorx\\SelfLearn\\Ecomerce\\New folder\\ITWorxEcommerce Solution\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\ITWorx\\SelfLearn\\Ecomerce\\-ITWorxEcommerce-\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\ITWorx\\SelfLearn\\Ecomerce\\New folder\\ITWorxEcommerce Solution\\Domain\\Domain.csproj",
+        "projectPath": "D:\\ITWorx\\SelfLearn\\Ecomerce\\-ITWorxEcommerce-\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\youssef.abdeltwab\\.nuget\\packages\\",
-        "outputPath": "D:\\ITWorx\\SelfLearn\\Ecomerce\\New folder\\ITWorxEcommerce Solution\\Domain\\obj\\",
+        "outputPath": "D:\\ITWorx\\SelfLearn\\Ecomerce\\-ITWorxEcommerce-\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\ITWorx\\SelfLearn\\Ecomerce\\New folder\\ITWorxEcommerce Solution\\Presentation\\Presentation.csproj": {
+    "D:\\ITWorx\\SelfLearn\\Ecomerce\\-ITWorxEcommerce-\\Presentation\\Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITWorx\\SelfLearn\\Ecomerce\\New folder\\ITWorxEcommerce Solution\\Presentation\\Presentation.csproj",
+        "projectUniqueName": "D:\\ITWorx\\SelfLearn\\Ecomerce\\-ITWorxEcommerce-\\Presentation\\Presentation.csproj",
         "projectName": "Presentation",
-        "projectPath": "D:\\ITWorx\\SelfLearn\\Ecomerce\\New folder\\ITWorxEcommerce Solution\\Presentation\\Presentation.csproj",
+        "projectPath": "D:\\ITWorx\\SelfLearn\\Ecomerce\\-ITWorxEcommerce-\\Presentation\\Presentation.csproj",
         "packagesPath": "C:\\Users\\youssef.abdeltwab\\.nuget\\packages\\",
-        "outputPath": "D:\\ITWorx\\SelfLearn\\Ecomerce\\New folder\\ITWorxEcommerce Solution\\Presentation\\obj\\",
+        "outputPath": "D:\\ITWorx\\SelfLearn\\Ecomerce\\-ITWorxEcommerce-\\Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ITWorx\\SelfLearn\\Ecomerce\\New folder\\ITWorxEcommerce Solution\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\ITWorx\\SelfLearn\\Ecomerce\\New folder\\ITWorxEcommerce Solution\\Domain\\Domain.csproj"
+              "D:\\ITWorx\\SelfLearn\\Ecomerce\\-ITWorxEcommerce-\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\ITWorx\\SelfLearn\\Ecomerce\\-ITWorxEcommerce-\\Domain\\Domain.csproj"
               }
             }
           }

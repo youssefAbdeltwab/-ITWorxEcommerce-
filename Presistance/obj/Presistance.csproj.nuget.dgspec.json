@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ITWorx\\SelfLearn\\Ecomerce\\New folder\\ITWorxEcommerce Solution\\Presistance\\Presistance.csproj": {}
+    "D:\\ITWorx\\SelfLearn\\Ecomerce\\-ITWorxEcommerce-\\Presistance\\Presistance.csproj": {}
   },
   "projects": {
-    "D:\\ITWorx\\SelfLearn\\Ecomerce\\New folder\\ITWorxEcommerce Solution\\Presistance\\Presistance.csproj": {
+    "D:\\ITWorx\\SelfLearn\\Ecomerce\\-ITWorxEcommerce-\\Presistance\\Presistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITWorx\\SelfLearn\\Ecomerce\\New folder\\ITWorxEcommerce Solution\\Presistance\\Presistance.csproj",
+        "projectUniqueName": "D:\\ITWorx\\SelfLearn\\Ecomerce\\-ITWorxEcommerce-\\Presistance\\Presistance.csproj",
         "projectName": "Presistance",
-        "projectPath": "D:\\ITWorx\\SelfLearn\\Ecomerce\\New folder\\ITWorxEcommerce Solution\\Presistance\\Presistance.csproj",
+        "projectPath": "D:\\ITWorx\\SelfLearn\\Ecomerce\\-ITWorxEcommerce-\\Presistance\\Presistance.csproj",
         "packagesPath": "C:\\Users\\youssef.abdeltwab\\.nuget\\packages\\",
-        "outputPath": "D:\\ITWorx\\SelfLearn\\Ecomerce\\New folder\\ITWorxEcommerce Solution\\Presistance\\obj\\",
+        "outputPath": "D:\\ITWorx\\SelfLearn\\Ecomerce\\-ITWorxEcommerce-\\Presistance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
